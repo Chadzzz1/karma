@@ -428,7 +428,7 @@
   ],
   "dependencies": {
     "@colors/colors": "1.5.0",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.19.2",
     "braces": "^3.0.2",
     "chokidar": "^3.5.1",
     "connect": "^3.7.0",
@@ -441,15 +441,15 @@
     "lodash": "^4.17.21",
     "log4js": "^6.4.1",
     "mime": "^2.5.2",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "mkdirp": "^0.5.5",
     "qjobs": "^1.2.0",
     "range-parser": "^1.2.1",
     "rimraf": "^3.0.2",
-    "socket.io": "^4.4.1",
+    "socket.io": "^4.5.0",
     "source-map": "^0.6.1",
     "tmp": "^0.2.1",
-    "ua-parser-js": "^0.7.30",
+    "ua-parser-js": "^0.7.33",
     "yargs": "^16.1.1"
   },
   "devDependencies": {
