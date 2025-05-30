@@ -450,7 +450,7 @@
     "source-map": "^0.6.1",
     "tmp": "^0.2.1",
     "ua-parser-js": "^0.7.30",
-    "yargs": "^16.1.1"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
